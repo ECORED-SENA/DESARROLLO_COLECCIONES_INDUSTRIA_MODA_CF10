@@ -66,28 +66,28 @@
               .col-lg-11                                   
                 p.mb-4 Con la mano suavemente llevar el tejido al hombro, limpiar arrugas y pinar sin estirar hasta el punto acromio, cortando el sobrante y realizando cortes para un mejor ajuste.
                 .row.justify-content-center
-                  .col-lg-4
+                  .col-lg-4.px-5
                     figure                      
                       img(src='@/assets/curso/tema3/img13.svg') 
             .row(titulo="3").justify-content-center
               .col-lg-11                                   
                 p.mb-4 Pasamos ahora a la cintura donde se limpiará con la mano hasta la primera línea <i>bretel</i> y se formará la primera pinza de ajuste, pinandola. En la cintura queda el tejido al hilo sin estirar y pinar hasta llegar al costado.
                 .row.justify-content-center
-                  .col-lg-4
+                  .col-lg-4.px-5
                     figure                      
                       img(src='@/assets/curso/tema3/img14.svg')  
             .row(titulo="4").justify-content-center
               .col-lg-11                                   
                 p.mb-4 Se continúa con el hombro cortando para formar la sisa y de allí el tejido sobrante baja para formar la pinza de costado. En algunos tejidos se presenta un sobrante en el hombro, el cual, se debe corregir con una pinza de ajuste que luego en el patrón final desparecerá. Pinar muy bien en el costado limpiando con la mano el sobrante del tejido y pinando para ajustar. Luego de cortar sobrantes se procede a marcar líneas de construcción, pinzas y piquetes con el lápiz blando.
                 .row.justify-content-center
-                  .col-lg-4
+                  .col-lg-4.px-5
                     figure                      
                       img(src='@/assets/curso/tema3/img15.svg')  
             .row(titulo="5").justify-content-center
               .col-lg-11                                   
                 p.mb-4 Para el <i>toile</i> de la parte posterior se procede igual que para el delantero, el tejido se prepara de la misma forma: con los 3 cm de ventaja y se pinará en el centro atrás de la misma forma.
                 .row.justify-content-center
-                  .col-lg-4
+                  .col-lg-4.px-5
                     figure                      
                       img(src='@/assets/curso/tema3/img16.svg') 
             .row(titulo="6").justify-content-center
@@ -101,14 +101,14 @@
               .col-lg-11                                   
                 p.mb-4 Limpiar desde el centro frente haca el costado formando la pinza en la línea de <i>bretel</i> al igual que en el delantero.
                 .row.justify-content-center
-                  .col-lg-4
+                  .col-lg-4.px-5
                     figure                      
                       img(src='@/assets/curso/tema3/img18.svg') 
             .row(titulo="8").justify-content-center
               .col-lg-11                                   
                 p.mb-4 Pinar y realizar los cortes en sisa y costado limpiando el sobrante de tejido. Marcar con el lápiz blando líneas de construcción, pinzas y piquetes. Asegurar que coincidan el delantero y el posterior en largos de costado y sisa.
                 .row.justify-content-center
-                  .col-lg-4
+                  .col-lg-4.px-5
                     figure                      
                       img(src='@/assets/curso/tema3/img19.svg') 
             

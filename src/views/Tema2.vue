@@ -124,21 +124,22 @@
 
     h3 Verificar las medidas y que el encintado éste correcto de acuerdo a lo explicado y revisado a través del espejo.
     p.mb-5 A continuación explicaremos el orden para encintar el <i>gabarit</i>, lo cual facilitará la práctica de este proceso.
-    .tarjeta.tarjeta--gris.p-4.mb-5    
+    
+    .tarjeta.tarjeta--gris.p-4.mb-5.tema2-div1(:style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").p-5
       LineaTiempoC.color-acento-botones(text-small)
         div(titulo="Líneas verticales").px-4
           .row.justify-content-center.mb-5
-            .col-lg-7
+            .col-lg-6
               h3 Líneas verticales
               br
               p.mb-5 Para iniciar el encintado del <i>gabarit</i> es necesario identificar las líneas que se deben marcar, de tal manera que el procedimiento a realizar sea limpio y cuente con la aplicación de la técnica requerida.
               .cajon.color-secundario.p-4.mb-4
                 p.mb-0 Reconocer las líneas será fundamental. Es por ello que para iniciar este ejercicio asumiremos que las líneas se trazaran sobre un <i>gabarit</i> posicionado de lado.
-            .col-lg-5
+            .col-lg-6
               figure                      
                 img(src='@/assets/curso/tema2/img09.svg')
 
-          div(:style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}")
+        div(titulo="Líneas verticales").px-4
             .row.justify-content-center.mb-5
               .col-lg-4
                 p.mb-4 Teniendo claras las líneas iniciamos la explicación del proceso paso a paso.
@@ -155,91 +156,92 @@
                 .col-lg-11
                   p.mb-0 Se debe estar seguro que la línea de centro del delantero del <i>gabarit</i> está en el centro. Los <i>gabarit</i> en su mayoría son elaborados manualmente y puede ser que la costura del centro del forro no coincida con el aplomo de mitad de cuerpo que se requiere; además el <i>gabarit</i> debe estar en posición totalmente vertical sin desnivel del piso donde se encuentre ya que esto también puede afectar el centro del mismo.
 
-        .row(titulo="Centro frente" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
-          .col-lg-7
+        .row(titulo="Centro frente").px-4
+          .col-lg-6
             p <b>Centro frente</b>: Se inicia a 1 cm de la costura del cuello, doblando el extremo de la cinta, aplicando la técnica correcta para pinar; se aploma amarrando una tijera y dejándola caer hacia el bajo del <i>gabarit</i>. Para la zona del abdomen se debe llevar con el dedo índice hacia el <i>gabarit</i> sin moverlo ni jalar y pinar allí para sostener.
-          .col-lg-5
+          .col-lg-6
             figure                      
               img(src='@/assets/curso/tema2/img13.svg')
 
-        .row.justify-content-start(titulo="Centro atrás" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
-          .col-lg-7
+        .row.justify-content-start(titulo="Centro atrás" ).px-4
+          .col-lg-6
             p <b>Centro atrás</b>: se inicia a 1 cm de la costura del cuello, doblando el extremo de la cinta aplicando la técnica correcta para pinar, aplomar amarrando una tijera y dejar caer hacia el bajo como se hizo en el delantero, al igual en la cintura con la ayuda del dedo índice llevarlo hacia el <i>gabarit</i> si mover o estirar; pinar en este punto.
-          .col-lg-3
+          .col-lg-4
             figure                      
               img(src='@/assets/curso/tema2/img14.svg')
 
-        .row.justify-content-start(titulo="Costado" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        .row.justify-content-start(titulo="Costado" ).px-4
           .col-lg-8
             p <b>Costado</b>: para la medida de los laterales se pinara un solo <i>bolduc</i> desde el hombro uniéndolo en la punta del acromion, luego medir a partir de la línea del centro delantero y de espalda la mitad de estos dos resultando la medida de costado. Marcarla con un pin para luego pegar allí el <i>bolduc</i>.
-          .col-lg-1
+          .col-lg-2.px-4
             figure                      
               img(src='@/assets/curso/tema2/img15.svg')
 
-        .row.justify-content-start(titulo="Líneas de <i>bretel</i> delanteras" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        .row.justify-content-start(titulo="Líneas de bretel delanteras" ).px-4
           .col-lg-8
             p <b>Líneas de <i>bretel</i> delanteras</b>: Se toma la mitad del hombro e iniciar doblando el extremo de la cinta y pinar tensando hasta el <i>pívot</i> (punto más alto del busto).  La medida para separación de busto es de 9,0 cm, tomados a partir de la línea centro frente. Tensar hasta la cintura aplicando 7,0 cm a partir de la línea de centro frente y pinar; aplicar la mitad entre línea centro frente y costado y pinar; tensar hasta la cadera y tomar la mitad entre línea centro frente y costado y pinar; tensar luego hasta el bajo doblando el extremo de la cinta, tomar la mitad entre línea centro frente y costado y pinar.
-          .col-lg-2.px-4
+          .col-lg-2
             figure                      
               img(src='@/assets/curso/tema2/img16.svg')
 
-        div(titulo="Líneas de <i>bretel</i> posteriores" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Líneas de bretel posteriores" ).px-4
           p.mb-4 <b>Líneas de <i>bretel</i> posteriores</b>: Se realiza el mismo procedimiento que en el delantero pero hacia la espalda.          
           .row.justify-content-center
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img16.svg')
 
-        div(titulo="Líneas horizontales" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Líneas horizontales" ).px-4
           h4 Líneas horizontales 
           p.mb-4 <b>Contornos y anchos</b>
           p.mb-5 Para efectos de esta explicación tendremos como base la imagen de una figura humana en posición frontal y explicaremos las líneas que se encintarán. Veámos:
           .row.justify-content-center
-            .col-lg-6
+            .col-lg-5
                 figure                      
                     img(src='@/assets/curso/tema2/img17.svg')
 
-        div(titulo="Cintura" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Cintura").px-4
           p.mb-4 <b>Cintura</b>: en la parte más estrecha del <i>gabarit</i>, se debe tener cuidado que alrededor de este quede simétrica en todo su contorno.
           .row.justify-content-center
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img18.svg')
             
-        div(titulo="Cadera" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Cadera" ).px-4
           p.mb-4 <b>Cadera</b>: a 20 cm del <i>bolduc</i> de la cintura al igual que esta cuidar de que quede simétrica.
           .row.justify-content-center
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img19.svg')
 
-        div(titulo="Cadera" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Cadera" ).px-4
           p.mb-4 <b>Cadera</b>: a 20 cm del <i>bolduc</i> de la cintura al igual que esta cuidar de que quede simétrica.
           .row.justify-content-center
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img20.svg')
 
-        div(titulo="Pecho" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Pecho" ).px-4
           p.mb-4 <b>Pecho</b>: a 1” pulgada de la sisa- costado pasando por la parte más plana del pecho.
           .row.justify-content-center
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img21.svg')
 
-        div(titulo="Línea submamario" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Línea submamario" ).px-4
           p.mb-4 <b>Línea submamario</b>: a 9.0 cm del <i>pívot</i> hacia la cintura
           .row.justify-content-center
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img22.svg')
 
-        div(titulo="Sisa" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Sisa" ).px-4
           p.mb-4 <b>Sisa</b>: a 1 cm de la tapa del brazo; en la línea de profundidad de sisa marcar 1 pulgada. 
           .row.justify-content-center
-            .col-lg-2.px-5
-                figure.mb-4                      
+            .col-lg-2
+                figure                      
                     img(src='@/assets/curso/tema2/img23.svg')
+        div(titulo="Sisa" ).px-4
           .cajon.color-acento-contenido.p-4.mb-4
               .row
                 .col-lg-1
@@ -253,12 +255,13 @@
                     figure                      
                         img(src='@/assets/curso/tema2/img24.svg')
 
-        div(titulo="Cuello" :style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}").px-4
+        div(titulo="Cuello" ).px-4
           p.mb-4 <b>Cuello</b>: a 1 cm de la costura de cuello marcar todo el contorno.
           .row.justify-content-center
-            .col-lg-2.px-5
+            .col-lg-2
                 figure.mb-4                     
                     img(src='@/assets/curso/tema2/img25.svg')
+        div(titulo="Cuello" ).px-4
           .cajon.color-acento-contenido.p-4.mb-4
               .row
                 .col-lg-1
