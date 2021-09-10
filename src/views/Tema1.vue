@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img02.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-4 El modelado de prendas de vestir sobre maniquí también llamado moulage es la técnica por la que se realizan directamente sobre el maniquí llamado gabarit o sobre la persona, vestuario en tres dimensiones moldeándolos sobre dicho cuerpo y creando su forma teniendo en cuenta que este es asimétrico, pero siguiendo una serie de proporciones. Aquí las tablas de medidas se constituyen a partir de la edad, medidas principales tanto en horizontal como en vertical y en la talla dada en el maniquí.
+        p.mb-4 El modelado de prendas de vestir sobre maniquí también llamado <i>moulage</i> es la técnica por la que se realizan directamente sobre el maniquí llamado <i>gabarit</i> o sobre la persona, vestuario en tres dimensiones moldeándolos sobre dicho cuerpo y creando su forma teniendo en cuenta que este es asimétrico, pero siguiendo una serie de proporciones. Aquí las tablas de medidas se constituyen a partir de la edad, medidas principales tanto en horizontal como en vertical y en la talla dada en el maniquí.
         br 
         br
         p.mb-0 La característica del drapeado consiste en la creación de piezas manipulando la tela donde un área se sostiene y liberando en la otra parte, las creaciones se hacen a partir de dobleces, recogidos, fruncidos o arrugados. Es la técnica por excelencia del diseñador que quiere ver su obra en un prototipo exacto antes de la prenda final.
@@ -37,7 +37,7 @@ export default {
       {
         titulo: 'El gabarit',
         texto:
-          'El principal elemento es el maniquí o gabarit debe ser enguatado y recubierto de tela llamada Percal, para que los pines o alfileres se puedan fijar bien; sin brazos y sin la forma de la hombrera, el brazo se añade independiente a este y a necesidad según diseño.<br><br>Los gabarit en su parte inferior cambian de acuerdo al diseño de la prenda, sea falda o pantalón, y su base está hecha en madera o metal permitiendo el apoyo, lo cual da firmeza a la hora de manipular el material sobre él.<br><br>Los gabarit vienen en sus formas en femenino, masculino e infantil. Estos se adaptan rellenándolo a la medida de la persona o en alta costura con medidas estandarizadas. ',
+          'El principal elemento es el maniquí o <i>gabarit</i> debe ser enguatado y recubierto de tela llamada Percal, para que los pines o alfileres se puedan fijar bien; sin brazos y sin la forma de la hombrera, el brazo se añade independiente a este y a necesidad según diseño.<br><br>Los <i>gabarit</i> en su parte inferior cambian de acuerdo al diseño de la prenda, sea falda o pantalón, y su base está hecha en madera o metal permitiendo el apoyo, lo cual da firmeza a la hora de manipular el material sobre él.<br><br>Los <i>gabarit</i> vienen en sus formas en femenino, masculino e infantil. Estos se adaptan rellenándolo a la medida de la persona o en alta costura con medidas estandarizadas. ',
         imagen: require('@/assets/curso/tema1/img03.png'),
       },
       {
@@ -53,9 +53,9 @@ export default {
         imagen: require('@/assets/curso/tema1/img05.png'),
       },
       {
-        titulo: 'Bolduc',
+        titulo: 'bolduc',
         texto:
-          'Para realizar la marcación o delimitación del gabarit se necesita el Bolduc, que es una cinta de raso de 0,5 cm o 0.8 cm de ancho, de colores vivos. Estas son fijadas al gabarit con los pines. permite visualizar las líneas principales de construcción del patrón o prototipo por transparencia de la glasilla. Desde hace poco también se está utilizando una cinta de color llamada maskin tape, de igual medida de ancho que suple el trabajo de los bolduc en las líneas divisorias.',
+          'Para realizar la marcación o delimitación del <i>gabarit</i> se necesita el <i>bolduc</i>, que es una cinta de raso de 0,5 cm o 0.8 cm de ancho, de colores vivos. Estas son fijadas al <i>gabarit</i> con los pines. permite visualizar las líneas principales de construcción del patrón o prototipo por transparencia de la glasilla. Desde hace poco también se está utilizando una cinta de color llamada <i>maskin tape</i>, de igual medida de ancho que suple el trabajo de los <i>bolduc</i> en las líneas divisorias.',
         imagen: require('@/assets/curso/tema1/img06.png'),
       },
       {
@@ -67,19 +67,19 @@ export default {
       {
         titulo: 'Lápiz blando',
         texto:
-          'Para marcar, se utilizarán lápices de colores punta blanda vidriograf preferiblemente rojo, por su textura suave que desliza suavemente por la glasilla marcando todo lo necesario para el prototipo.',
+          'Para marcar, se utilizarán lápices de colores punta blanda <i>vidriograf</i> preferiblemente rojo, por su textura suave que desliza suavemente por la glasilla marcando todo lo necesario para el prototipo.',
         imagen: require('@/assets/curso/tema1/img08.png'),
       },
       {
         titulo: 'Alfiletero',
         texto:
-          'Para practicidad del manejo de los pines se utiliza un alfiletero en pulsera o anillo, este es una almohadilla en el cual se van dejando los pines para irlos utilizando en el gabarit.',
+          'Para practicidad del manejo de los pines se utiliza un alfiletero en pulsera o anillo, este es una almohadilla en el cual se van dejando los pines para irlos utilizando en el <i>gabarit</i>.',
         imagen: require('@/assets/curso/tema1/img09.png'),
       },
       {
         titulo: 'Otros utensilios y herramientas',
         texto:
-          'Se necesitan los mismos utensilios y herramientas que para trabajar patronaje plano, como son: reglas de patronaje, cartulina, tijera para cortar papel, tijera para cortar tela, mesa y plancha (dentro de lo posible, plancha a vapor) y una tela de algodón mojado de 40X40 cm para planchar costuras, agujas de mano e hilos, cinta de enmascarar, las tijeras para tela deben ser manejables y livianas con una punta muy fina para hacer piquetes.<br><br>Se tendrá a mano un espejo de preferencia de cuerpo entero, que nos ayudará a garantizar que las líneas hechas con los bolducs estén rectas',
+          'Se necesitan los mismos utensilios y herramientas que para trabajar patronaje plano, como son: reglas de patronaje, cartulina, tijera para cortar papel, tijera para cortar tela, mesa y plancha (dentro de lo posible, plancha a vapor) y una tela de algodón mojado de 40X40 cm para planchar costuras, agujas de mano e hilos, cinta de enmascarar, las tijeras para tela deben ser manejables y livianas con una punta muy fina para hacer piquetes.<br><br>Se tendrá a mano un espejo de preferencia de cuerpo entero, que nos ayudará a garantizar que las líneas hechas con los <i>bolduc</i>s estén rectas',
         imagen: require('@/assets/curso/tema1/img10.png'),
       },
     ],

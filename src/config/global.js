@@ -43,7 +43,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Encintado del gabarit',
+            titulo: 'Encintado del <i>gabarit</i>',
             hash: 't_2_2',
           },
         ],

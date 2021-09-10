@@ -11,11 +11,11 @@
     .row.justify-content-center
       .col-lg-2           
         div.BorTit.mb-2
-          p.mb-0 <b>Figura</b>: Tejido.
+          p.mb-0 <b>Figura</b>: <i>Tejido.</i>
     figure.mb-5
       img(src='@/assets/curso/tema7/img01.png')
 
-    p.mb-5 Los tejidos para drapeado pueden ser en plano o de punto según el efecto que se quiera dar al diseño. Dentro de sus características están Los tejidos de textura suave, permeabilidad, elasticidad, firmeza y grosor ya que de esto depende la caída o fluidez que pueda dar en las formas sobre el gabarit. Si el efecto a lograr es volumen con cuerpo y sostenerse se necesitarán tejidos como Tafetán y Tafeta, Shantung, sedas gruesas, pero si el efecto es suelto, con caída y ligero se recurre a texturas más finas como Satín, Sedas delgadas, Organza, Chiffon, y Tul. A continuación, se mencionan algunas de ellas desde su estructura y usos.
+    p.mb-5 Los tejidos para drapeado pueden ser en plano o de punto según el efecto que se quiera dar al diseño. Dentro de sus características están Los tejidos de textura suave, permeabilidad, elasticidad, firmeza y grosor ya que de esto depende la caída o fluidez que pueda dar en las formas sobre el <i>gabarit</i>. Si el efecto a lograr es volumen con cuerpo y sostenerse se necesitarán tejidos como Tafetán y Tafeta, Shantung, sedas gruesas, pero si el efecto es suelto, con caída y ligero se recurre a texturas más finas como Satín, Sedas delgadas, Organza, Chiffon, y Tul. A continuación, se mencionan algunas de ellas desde su estructura y usos.
 
     div.tema7-div1.mb-4.py-5(:style="{'background-image': `url(${require('@/assets/curso/tema7/img02.svg')})`}")
       SlyderA
@@ -127,7 +127,7 @@
                 tbody
                   tr
                     td.text-center <b>Tul Bordado</b>
-                    td Apareció mediados de siglo XVIII en Tullé (Francia) con la fabricación manual de tules, derivados del encaje de bolillos. Hoy en día se obtienen unos telares especiales para Tul (bobinet) y en telar Rashel y Ketten, existiendo diversas modalidades. Se utilizan para corsetería, adornos, velos y mantillas, entre otros.
+                    td Apareció mediados de siglo XVIII en Tullé (Francia) con la fabricación manual de tules, derivados del encaje de bolillos. Hoy en día se obtienen unos telares especiales para Tul (<i>bobinet</i>) y en telar Rashel y Ketten, existiendo diversas modalidades. Se utilizan para corsetería, adornos, velos y mantillas, entre otros.
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img09.png')    
@@ -143,7 +143,7 @@
                 tbody
                   tr
                     td.text-center <b>Raso de seda</b>
-                    td Del latín “seta” (seda). Tela de seda, o con urdimbre de seda o algodón mercerizado y con trama de otros materiales de superficie lisa y lustrosa. Muy usado antiguamente para vestidos de señora y decoración, hoy en día muy empleado en forraría y vestidos de novia.
+                    td Del latín “<i>seta</i>” (seda). Tela de seda, o con urdimbre de seda o algodón mercerizado y con trama de otros materiales de superficie lisa y lustrosa. Muy usado antiguamente para vestidos de señora y decoración, hoy en día muy empleado en forraría y vestidos de novia.
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img10.png')    
@@ -159,7 +159,7 @@
                 tbody
                   tr
                     td.text-center <b>Brocado</b>
-                    td Del francés “brochè” que significa husillo, donde iban arrollados los hilos de efecto. En su origen eran tejidos de seda y oro, adornados con flores y figuras. Actualmente se llama así a la tela mezclada con metal precioso. Se emplea para ornamentos de iglesia y tejidos suntuarios en vestido de novia.
+                    td Del francés “<i>brochè</i>” que significa husillo, donde iban arrollados los hilos de efecto. En su origen eran tejidos de seda y oro, adornados con flores y figuras. Actualmente se llama así a la tela mezclada con metal precioso. Se emplea para ornamentos de iglesia y tejidos suntuarios en vestido de novia.
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img11.png')  
