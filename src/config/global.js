@@ -81,7 +81,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Sin Titulo',
+        titulo: 'Industrialización de patrones',
         desarrolloContenidos: true,
         subMenu: [],
       },
