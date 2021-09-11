@@ -6,14 +6,15 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1  Marcación y líneas de referencia para patrones
+      h1  Marcación y líneas de referencia para patrones    
 
-    figure(data-aos="fade-in")      
-      img(src='@/assets/curso/tema2/img01.png')
-      .row
-        .col-6
-          div(style="background-color:white;position:relative;top:-169px; border-radius: 10px").p-4
-            p.mb-0 En el estudio de la figura humana surgieron siluetas de acuerdo a la forma del cuerpo, éstas cuentan con características diferentes en cuanto a proporción y medida, sin embargo, las líneas de configuración geométrica para todos serán iguales encontrando líneas divisorias tanto en forma vertical como horizontal. 
+    div(:style="{'background-image': `url(${require('@/assets/curso/tema2/img01.png')})`}").mb-5.px-2
+      .row.justify-content-start
+        .col-lg-1(style="height:375px")
+          
+      .row.justify-content-start
+        .col-lg-6.px-5.py-4(style="background-color:white; border-radius:10px ")
+            p.mb-0 En el estudio de la figura humana surgieron siluetas de acuerdo a la forma del cuerpo, éstas cuentan con características diferentes en cuanto a proporción y medida, sin embargo, las líneas de configuración geométrica para todos serán iguales encontrando líneas divisorias tanto en forma vertical como horizontal.       
 
     div.mb-4.py-5(:style="{'background-image': `url(${require('@/assets/curso/tema2/img03.png')})`}")
       SlyderA
