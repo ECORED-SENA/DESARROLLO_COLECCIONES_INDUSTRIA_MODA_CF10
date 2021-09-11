@@ -122,131 +122,8 @@ export default {
           },
         ],
       },
-      {
-        nombreRuta: 'tema9',
-        icono: 'far fa-file-alt',
-        numero: '9',
-        titulo: 'Componentes',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
-      },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -277,141 +154,290 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Amaden-Crawford, C. (2012). The Art of Fashion Draping (2th ed.). Fairchild Books.',
+    },
+    {
+      referencia:
+        'Class, T. C. (2013, 28 noviembre). Contemporary Smocking Techniques. The Cutting Class. ',
+      link: 'https://www.thecuttingclass.com/contemporary-smocking-techniques/',
+    },
+    {
+      referencia:
+        'Diccionario de tejidos | Términos y acepciones textiles | M-P. (2019, 23 julio). Ribes & Casals.  ',
+      link: 'https://telas.com/glosario-textil-tipos-telas/de-la-m-a-la-p/',
+    },
+    {
+      referencia: 'Gaviria, A. (2018). Escalado.',
+    },
+    {
+      referencia:
+        'Kiisel, K. (2013). Draping: The Complete Course (Pap/DVD ed.). Laurence King.',
+    },
+    {
+      referencia:
+        'Lo, D. C. (2011). Pattern Cutting (Illustrated ed.). Laurence King.',
+    },
+    {
+      referencia:
+        'M. (2020, 20 diciembre). TUTORIAL SOBRE LOS PLIEGUES. PATRONES DE COSTURA.  ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://menchuhiloyaguja.blogspot.com/2013/07/tutorial-de-pliegues-fuelles-faldas-de-camilla-cubrecanape.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Real Académia Española. (n.d.). DRAE | Diccionario de la lengua española | Edición del Tricentenario | RAE - ASALE. Retrieved July 6, 2020, from ',
+      link: 'https://dle.rae.es/',
+    },
+    {
+      referencia:
+        'Shingo Sato draping technique. (2012, 22 junio). justskirtsanddresses. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://justskirtsanddresses.blogspot.com/2012/06/shingo-sato-draping-technique.html',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Tiempo, R. E. L. (2012, 28 septiembre). Shingo Sato, el diseñador del nuevo patronaje. El Tiempo. ',
+      link: 'https://www.eltiempo.com/archivo/documento/CMS-12264329',
+    },
+    {
+      referencia: 'Vocabulario/ Glosario. (2007). academiasistemacyc. ',
+      link: 'https://www.academiasistemacyc.com/vocabulario/glosario_menu.php',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Wikipedia. (n.d.). Wikipedia, la enciclopedia libre. Wikipedia. Retrieved July 6, 2020, from ',
+      link: 'https://es.wikipedia.org/wiki/Drapeado',
+    },
+    {
+      referencia:
+        'Fundación MAPFRE. (2012). Lesiones en el hombro. Trauma 23(2012). ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://app.mapfre.com/fundacion/html/revistas/trauma/v23s1/contenido-6.html',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Afinar',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Realizar una corrección de líneas dándole a un patrón una forma propicia para cortarlo en tela. Terminar un patrón dándole una forma propicia. Hacer las correcciones necesarias al patrón y/o prenda para que tenga buena caída sobre la persona. Ajustar el forro a la medida de la tela de la prenda cuando este se ha cortado en bruto.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Alforza',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Doblez o pliegue cosido en la tela para darle forma a una prenda, para acortarla o con fines decorativos a través de pliegues muy pequeños ya sean triples, cuádruples y otros. Cosidos, con un área plana entre ellos.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Amplitud',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Es el volumen o vuelo que se aumenta al molde o patrón para llevar a cabo la transformación de un trazo. Ancho de tela mayor que las medidas reales de una prenda de vestir, para poder formar pliegues o fruncirla se señala la amplitud necesaria para los diferentes modelos con una clave.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Antropometría',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Parte de la antropología que estudia las proporciones y medidas del cuerpo humano: la antropometría es una técnica auxiliar de la paleontología. Entre otras cosas, estudio de las medidas generales del cuerpo humano.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Moda',
+      termino: 'Ápice',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        '1. m. Extremo superior o punta de algo. U. t. en sent. fig. (Españoa, s.f.)',
     },
     {
-      termino: 'DIseño',
+      termino: 'Asimétrico',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Que no tiene dos partes exactamente iguales. Que no guarda simetría o que carece de ella: figura asimétrica.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Diseña',
+      termino: 'Bies',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Trozo de tela cortado en sesgo (en diagonal) respecto al hilo, que se aplica a los bordes de prendas de vestir.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Tipología',
+      termino: 'Caída',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Característica básica de cada tejido que se rige por la forma en que fue manufacturado y el peso de la fibra. Los materiales sintéticos con base plástica no caen tan bien como los de fibras naturales. Manera de plegarse o caer una tela, y que depende de su espesor, peso, y corte. La caída de una prenda de vestir depende de la tela con que se confecciona. Cuando se aprecia la calidad de la tela por el movimiento ondulante que produce su propio peso. Prenda con una apreciable estética en el corte.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Canto',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Extremo u orilla. Terminación de los patrones o plantillas o las piezas confeccionadas en torno suyo. Borde.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Cowl',
+      significado: 'Véase drapeado.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Drapeado',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Plegar artísticamente una tela con exactitud de la dirección del hilo de la tela al Sesgo. Tela recogida en la dirección del bies (con el hilo de la tela al sesgo) de un punto para constituir diversos pliegues. Para que los drapeados tengan la caída adecuada se deben cortar siempre al sesgo.  (Academiasistemacyc, s.f.)',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Drop',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Esta palabra se usa para distinguir la diferencia en centímetros entre prendas, respecto a dos de sus medidas más importantes, cuando una de estas medidas es constante y la otra es variable, por ejemplo, el pecho y la cadera. Este método es utilizado por firmas que producen grandes series de prendas, para cubrir al máximo la variedad de constituciones anatómicas  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Percal',
+      significado:
+        'Del persa “percala” (tela ligera). Tejido de algodón, algo parecido a la cretona, pero de mejor calidad, más fino y de mayor densidad, con ligamento tafetán blanqueado. Tejido en pieza o más generalmente estampado y aprestado con cierto brillo. Se usa para vestidos, camisas y otras aplicaciones.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Fruncir',
+      significado:
+        'Plegar una tela en arrugas pequeñas y paralelas.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Fuelle',
+      significado:
+        'Posición de dos pliegues encarados. Arruga del vestido.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Godete',
+      significado:
+        'Es la ampliación que se le da a una prenda por medio de cortes adecuados que se hacen de abajo hacia arriba en el molde o patrón en diferentes partes de prendas de vestir como cuellos, holanes, mangas, faldas, etc. Vuelo producido por la amplitud de tela en el bajo de una prenda. Una de las formas de conseguirlo es haciendo cortes en el bajo en dirección ascendente e incrustar piezas con forma triangular.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Gola',
+      significado:
+        'Adorno de encaje o tul, que era utilizado alrededor del cuello, ajustado y profusamente plegado.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Patrón',
+      significado:
+        'Es el (molde) patrón de una prenda determinada, el cual guardamos y usamos cada vez que vamos a realizar una prenda de ese tipo, ya que reúne unas medidas, proporciones o forma, según nuestro gusto o configuración anatómica al uso. También conocido como molde.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Patrón básico',
+      significado:
+        'Es el patrón base de las principales formas (talle, manga, falda, pantalón, pantaleta) que normalmente se hace de cartón, plástico u otro material (papel kraft o kraftcena) que se utiliza como guía o plantilla para poder hacer la transformación de una prenda particular, se guarda colgado para que no se deforme y se usa cada vez que vamos a realizar una transformación ya que reúne las medidas, proporciones y formas requeridas.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Patrones a escala',
+      significado:
+        'Es un esquema de un patrón con menores y mayores dimensiones que el original y proporcionales a este.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Piquete',
+      significado:
+        'Pequeño corte o señal hecha en los cantos de los patrones; los piquetes sirven para reconocer los patrones fácilmente, unir las piezas correctamente, como guía de montaje y confección. Cortes o marcas que se hacen sobre la tela para hacerla coincidir o hacer un señalamiento. Consejo: los cortes se hacen perpendiculares a la orilla para que no se deshilache la tela; también se le puede llamar "aplomo o muesca.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Pivoteo',
+      significado:
+        'Extremo cilíndrico o puntiagudo de una pieza, donde se apoya o inserta otra, bien con carácter fijo o bien de manera que una de ellas pueda girar u oscilar con facilidad respecto de la otra. En materia de corte se utiliza para el cambio de pinza sin tener que hacer cortes.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Pliegue',
+      significado:
+        'Doblez hecho para ceñir como pinza hueca. // Doblez hecho para dar amplitud como los usados en el plisado.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Plisado',
+      significado:
+        'Un plegado permanente que puede ser aplicado a casi todos los géneros.  (Academiasistemacyc, s.f.)',
+    },
+    {
+      termino: 'Punto acromion',
+      significado:
+        'El acromion articula con la clavícula por la articulación acromio-clavicular. El ángulo entre la escápula y la clavícula depende de la posición del brazo: cuando el hombro está en flexión el ángulo es de 50º, en reposo se encuentra a unos 60º y en extensión aumenta hasta los 70º. (Fundación MAPFRE)',
+    },
+    {
+      termino: 'Vaciado-vaciar',
+      significado:
+        'Dar más cavidad a un escote o una sisa. (Academiasistemacyc, s.f.)',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Amaden-Crawford; C. (s.f.). The Art of Fashion Draping. Second Edition. Fairchlid publications; New York.',
+      tipo: 'Libro',
+      descarga: '/downloads/THE-ART-OF-FASHION-DRAPING.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Castro, A. (2011). Estudio y experimentación del modelado de tela sobre maniquí. Universidad de Azuay. Cuenca; Ecuador.',
+      tipo: 'Tesis',
+      descarga:
+        '/downloads/ESTUDIO-Y-EXPERIMENTACION-DEL-MODELADO-DE-TELA-SOBRE-MANIQUI.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Chunman, D. L. (2011). Patronaje. Laurence King Publishing Ltd. Londres.',
+      tipo: 'Libro',
+      descarga: '/downloads/PATRONAJE.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+      texto:
+        'Fabric Manipulation Swirl Pattern. (2015, 28 mayo). [Vídeo]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/mz3laO56wwQ ',
+    },
+    {
+      texto:
+        'Fabric manipulation, how to Pleats Please. (2017, 16 noviembre). [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/-JCqkVA69GA ',
+    },
+    {
+      texto:
+        'Fabric Manipulation Techniques - Indigo & Violet Project. (2020, 12 julio). [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/mKt2PCrl2IQ ',
+    },
+    {
+      texto:
+        'How to use FABRIC MANIPULATION WITH PLEATING | 4 different techniques. (2020, 29 septiembre). [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/magtOtHpaWY ',
+    },
+    {
+      texto:
+        'Kiisel, K. (2013). Draping. Laurence King Publishing Ltd. Londres.',
+      tipo: 'Libro',
+      descarga: '/downloads/DRAPING-THE-COMPLETE-COURSE.pdf',
+    },
+    {
+      texto:
+        'Manjarres, G. S. (2018). Técnicas de manipulación textil. Universidad Francisco de Quito. ',
+      tipo: 'Tesis',
+      descarga: '/downloads/TECNICAS-DE-MANIPULACION-TEXTIL.pdf',
+    },
+    {
+      texto:
+        'Momita78. (2018, 23 octubre). Patronista Shingo Sato. Momita’s blog.',
+      tipo: 'Página Web',
+      link: 'https://momitablog.com/shingo-sato/ ',
+    },
+    {
+      texto:
+        'Orsini, E. [elaorsini]. (2020, 23 marzo). Ela Orsini ~ Fashion Designer [IGTV]. Ela Orsini ~ Fashion Designer.',
+      tipo: 'IGTV Instagram',
+      link: 'https://www.instagram.com/elaorsini/?hl=es ',
+    },
+    {
+      texto:
+        'SENATI-IPACE. (2003). Patronaje industrial en tejido plano para damas: el corpiño. Tercera edición.',
+      tipo: 'Guía del participante/Documento académico',
+      descarga: '/downloads/PATRONAJE.pdf',
+    },
+    {
+      texto:
+        'Техника полу зашитых складок. Chaqueta pliegues cosidos. (2018, 26 abril). [Vídeo]. YouTube. https://www.youtube.com/watch?v=gvHq4zmY0Oc&feature=youtu.be ',
+      tipo: 'Video',
+      link: 'https://youtu.be/gvHq4zmY0Oc ',
+    },
+    {
+      texto:
+        'TR Cutting School-Origami Workshop by Shingo Sato-Origami Petal. (2015, 18 junio). [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://youtu.be/yk_YP4j6NVs?list=PLMNC3p5x0rZwssqJ36xAZQRMdx92KDRvP ',
+    },
+    {
+      texto:
+        'Лиф с твердой грудью. Torso con busto rígido. (2018, 14 abril). [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/KjtqBeBHi8A ',
     },
   ],
   creditos: {

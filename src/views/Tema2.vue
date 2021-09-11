@@ -79,7 +79,7 @@
                   h3.mb-1 Infografía - Infografía  Estudio de proporciones y figura humana
                   p.text-small Las proporciones del cuerpo corresponden a la relación o equilibrio.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Infografia_Estudio de proporciones y figura humana.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
            
