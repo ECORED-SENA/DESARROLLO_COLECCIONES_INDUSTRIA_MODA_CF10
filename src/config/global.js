@@ -105,9 +105,22 @@ export default {
         nombreRuta: 'tema8',
         icono: 'far fa-file-alt',
         numero: '8',
-        titulo: 'Sin Titulo',
+        titulo: 'Elaboración y Desarrollos de propuestas',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '8.1',
+            titulo: 'Estudio de las proporciones y la figura humana. ',
+            hash: 't_8_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '8.2',
+            titulo: 'Manejo del tejido/drapeados más usuales ',
+            hash: 't_8_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema9',
