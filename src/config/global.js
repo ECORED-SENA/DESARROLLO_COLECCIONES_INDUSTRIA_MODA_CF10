@@ -37,7 +37,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Estudio de las proporciones y la figura humana.',
+            titulo: 'Estudio de las proporciones y la figura humana',
             hash: 't_2_1',
           },
           {
@@ -58,7 +58,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Realización de básicost',
+            titulo: 'Realización de básicos',
             hash: 't_3_1',
           },
           {
@@ -111,13 +111,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '8.1',
-            titulo: 'Estudio de las proporciones y la figura humana. ',
+            titulo: 'Manejo del tejido/drapeados más usuales ',
             hash: 't_8_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '8.2',
-            titulo: 'Manejo del tejido/drapeados más usuales ',
+            titulo: 'Desarrollo de prototipos con volumens ',
             hash: 't_8_2',
           },
         ],
@@ -417,7 +417,7 @@ export default {
     {
       texto:
         'SENATI-IPACE. (2003). Patronaje industrial en tejido plano para damas: el corpiño. Tercera edición.',
-      tipo: 'Guía del participante/Documento académico',
+      tipo: 'Guía del participante / Documento académico',
       descarga: '/downloads/PATRONAJE.pdf',
     },
     {

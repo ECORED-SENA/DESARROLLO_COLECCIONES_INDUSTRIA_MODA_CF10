@@ -66,10 +66,10 @@
             ul.lista-ul--color.mb-5.px-3
               li 
                 i.fas.fa-brain
-                | Trazar el nuevo costado con línea recta y verificar que la medida y caída de esta sea igual en los <i>toile</i>. 
+                p.mb-0 Trazar el nuevo costado con línea recta y verificar que la medida y caída de esta sea igual en los <i>toile</i>. 
               li 
                 i.fas.fa-brain
-                | Agregar costuras y cortar el exceso de tejido.
+                .mb-0 Agregar costuras y cortar el exceso de tejido.
             .row.justify-content-center                 
               .col-lg-9
                 figure                      
@@ -89,7 +89,7 @@
         .row(titulo="7").justify-content-center
           .col-lg-11           
             h4 Verificación-corrección-afinado y limpieza del patrón base
-            p.mb-4 Por ultimo se cierran las pinzas de hombro y de cintura, se unen los <i>toile</i> por los costados y los hombros con pines comprobando las distancias de estos, se marcan costuras y piquetes de unión. Se monta de nuevo en el <i>gabarit</i> para la verificación final.
+            p.mb-4 Por último se cierran las pinzas de hombro y de cintura, se unen los <i>toile</i> por los costados y los hombros con pines comprobando las distancias de estos, se marcan costuras y piquetes de unión. Se monta de nuevo en el <i>gabarit</i> para la verificación final.
             ul.lista-ul--color.mb-5.px-3
               li 
                 i.fas.fa-brain
@@ -202,7 +202,7 @@
                     | Recortar el exceso de tejido y agregar márgenes de costura.
                   li 
                     i.fas.fa-brain
-                    | Montar de nuevo las piezas al <i>gabarit</i> procurando la precisión de este y rectificando medidas.
+                    p.mb-0 Montar de nuevo las piezas al <i>gabarit</i> procurando la precisión de este y rectificando medidas.
                   li 
                     i.fas.fa-brain
                     | Proceder a calcar sobre la cartulina según lo explicado.
@@ -220,7 +220,7 @@
             ul.lista-ul--color.mb-5.px-3
               li 
                 i.fas.fa-brain
-                | Trazar las sisa y escote con la regla curva francesa y verificando en el <i>gabarit</i> la precisión de este y rectificando medidas. 
+                p.mb-0  Trazar las sisa y escote con la regla curva francesa y verificando en el <i>gabarit</i> la precisión de este y rectificando medidas. 
               li 
                 i.fas.fa-brain
                 | Retirar la excedencia de tejido y añadiendo costuras.

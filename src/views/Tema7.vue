@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-lg-2           
         div.BorTit.mb-2
-          p.mb-0 <b>Figura</b>: <i>Tejido.</i>
+          p.mb-0 <b>Figura 16</b> <i>Tejido.</i>
     figure.mb-5
       img(src='@/assets/curso/tema7/img01.png')
 
@@ -163,7 +163,7 @@
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img11.png')  
-                        figcaption  Nota. Tomado de https://www.shutterstock.com/es/image-photo/elegant-background-image-luxurious-white-satin-103118426
+                        figcaption.mt-2  Nota. Tomado de https://www.shutterstock.com/es/image-photo/elegant-background-image-luxurious-white-satin-103118426
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .tabla-a.color-acento-botones
@@ -176,11 +176,11 @@
                 tbody
                   tr
                     td.text-center <b>Tafetán</b>
-                    td Tejido de seda o rayón de poca densidad, ligamento tafetán. Se usa para vestidos o prendas de adorno. Se fabrica un tejido análogo o algún parecido con algodón peinado y, algunas veces mercerizado en pieza, que recibe también el nombre de vuela.
+                    td Del persa "<i>taftah</i>" (hilar), "<i>Tafteh</i>" (brillante). Tejido espeso de hilo fino, ligeramente tieso, que tiene aspecto crujiente como la seda. Se emplea para vestidos de noche, aunque también para algunos abrigos.
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img12.png')   
-                        figcaption  Nota. Tomado de https://www.shutterstock.com/es/image-photo/pink-blue-fabric-136422809 
+                        figcaption.mt-2  Nota. Tomado de https://www.shutterstock.com/es/image-photo/pink-blue-fabric-136422809 
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .tabla-a.color-acento-botones
@@ -197,7 +197,7 @@
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img13.png')    
-                        figcaption Nota. Tomado de https://www.shutterstock.com/es/image-photo/iridescent-fabric-folds-background-image-1599148924
+                        figcaption.mt-2 Nota. Tomado de https://www.shutterstock.com/es/image-photo/iridescent-fabric-folds-background-image-1599148924
                 
 
 </template>

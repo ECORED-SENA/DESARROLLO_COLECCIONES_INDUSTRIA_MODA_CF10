@@ -27,12 +27,12 @@
             .row.justify-content-center
               .col-lg-3
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Escalado.</i>
+                  p.mb-0 <b>Figura 10</b> <i>Escalado.</i>
             .row.justify-content-center
               .col-lg-12
                 figure.mb-5      
                   img(src='@/assets/curso/tema6/img03.png')
-                  figcaption Nota.  Elaboración propia Software Optitex
+                  figcaption.mt-2 Nota.  Elaboración propia Software Optitex
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .row.justify-content-center
@@ -40,10 +40,10 @@
                 p El escalado parte de unos ejes, que, para las prendas superiores, serán las líneas de centro del frente y el centro espalda como ejes verticales, y como eje horizontal se emplea la línea o altura de sisa. El eje se comporta como centro del escalado, manteniéndose inmóvil.  
               .col-lg-4
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Escalado.</i>
+                  p.mb-0 <b>Figura 11</b> <i>Escalado.</i>
                 figure.mb-5 
                   img(src='@/assets/curso/tema6/img04.png')
-                  figcaption Nota.  Tomado de Escalado (A. Gaviria, 2018)
+                  figcaption.mt-2 Nota.  Tomado de Escalado (A. Gaviria, 2018)
               .col-lg-1
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
@@ -52,10 +52,10 @@
                 p En las partes inferiores (pantalones) el eje vertical se ubica en la línea de aplome y el eje horizontal a la altura de cadera o tiro; creciendo y decreciendo horizontalmente hacia los costados, tiro y entrepierna y verticalmente hacia la cintura y la bota.
               .col-lg-3
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Escalado.</i>
+                  p.mb-0 <b>Figura 12</b> <i>Escalado.</i>
                 figure.mb-5 
                   img(src='@/assets/curso/tema6/img05.png')
-                  figcaption Nota.  Tomado de Escalado (A. Gaviria, 2018)
+                  figcaption.mt-2 Nota.  Tomado de Escalado (A. Gaviria, 2018)
               .col-lg-1
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
@@ -64,21 +64,21 @@
                 p Para escalar es muy importante tener en cuenta estos ejes y sobre estos trazar un plano cartesiano en cada punto a escalar, para luego aplicar la medida (según incrementos en tabla de medidas) hacia afuera (en tallas mayores) y hacia adentro (en tallas menores), manteniendo las proporciones y curvas del patrón base o inicial.
               .col-lg-4
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>:<i>Escalado - posición de las escuadras para trazar los planos cartesianos en puntos de prendas superiores.</i>
+                  p.mb-0 <b>Figura 13</b> <i>Escalado - posición de las escuadras para trazar los planos cartesianos en puntos de prendas superiores.</i>
                 figure.mb-5.px-4 
                   img(src='@/assets/curso/tema6/img06.png')
-                  figcaption Nota.  Tomado de Escalado (A. Gaviria, 2018)
+                  figcaption.mt-2 Nota.  Tomado de Escalado (A. Gaviria, 2018)
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .row.justify-content-center              
               .col-lg-6
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Escalado - posición de las escuadras para trazar los planos cartesianos en puntos de prendas superiores.</i>
+                  p.mb-0 <b>Figura 14</b> <i>Escalado - posición de las escuadras para trazar los planos cartesianos en puntos de prendas superiores.</i>
             .row.justify-content-center              
               .col-lg-3                
                 figure.mb-5 
                   img(src='@/assets/curso/tema6/img07.png')
-                  figcaption Nota.  Tomado de Escalado (A. Gaviria, 2018)
+                  figcaption.mt-2 Nota.  Tomado de Escalado (A. Gaviria, 2018)
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .row.justify-content-center
@@ -86,10 +86,10 @@
                 p Enseguida se presenta un ejemplo en el que se explica gráficamente el escalado del punto de hombro por sisa (hombro x sisa), con unos valores de 0.84 cm en X y 0.76 cm en Y (los cuales dependen de cada punto y de la tabla de medidas con la que se trabaje), como se aprecia en la figura:
               .col-lg-4
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>:<i>Escalado - ejemplo de escalado del punto hombro por sisa.</i>
+                  p.mb-0 <b>Figura 15</b> <i>Escalado - ejemplo de escalado del punto hombro por sisa.</i>
                 figure.mb-5.px-4 
                   img(src='@/assets/curso/tema6/img08.png')
-                  figcaption Nota.  Tomado de Escalado (A. Gaviria, 2018)
+                  figcaption.mt-2 Nota.  Tomado de Escalado (A. Gaviria, 2018)
 
     .bloque-texto-d.color-acento-contenido.p-4(style="border-top: 2px solid #FF4A69")
         .bloque-texto-d__texto.mb-2

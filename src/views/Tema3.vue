@@ -30,18 +30,18 @@
           p.mb-5 Para la realización de los básicos, lo primero es la preparación de la glasilla en cada uno de los modelos, para esto se tomará la medida de ancho y de largo dando la forma de un rectángulo, se plancha con vapor la tela para no tener arrugas que generen otro tipo de proceso y se hace horizontal y verticalmente, no en diagonal ya que el tejido con el calor y el vapor pueden estirarse.         
           figure      
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Toile</i>.
+                  p.mb-0 <b>Figura 5</b> <i>Toile</i>.
                 img(src='@/assets/curso/tema3/img02.png')
       .col-lg-6.d-flex
         .cajon.color-secundario.p-4.mb-4
           p.mb-5 En la siguiente figura se muestra la forma en que se debe planchar la glasilla en el proceso de preparación este insumo para el trabajo con los básicos.
           div.BorTit.mb-2
-            p.mb-0 <b>Figura</b>:<i>Preparación Glasilla.</i>
+            p.mb-0 <b>Figura 6</b> <i>Preparación Glasilla.</i>
           .row.justify-content-center
               .col-lg-8.d-flex
                 figure                      
                     img(src='@/assets/curso/tema3/img03.png')
-                    figcaption Nota. Tomado de Kiisel, Karolin_Draping_The_Complet_Course
+                    figcaption.mt-2 Nota. Tomado de Kiisel, Karolin_Draping_The_Complet_Course
 
     p.mb-5 A continuación, explicaremos el paso a paso para construir los básicos. Veamos:
     
@@ -531,10 +531,10 @@
           .row.justify-content-center
             .col-lg-3
               div.BorTit.mb-2
-                p.mb-0 <b>Figura</b>: <i>Tipos de Pinza.</i>
+                p.mb-0 <b>Figura 7</b> <i>Tipos de Pinza.</i>
           figure.mb-5                     
             img(src='@/assets/curso/tema3/img69.svg')
-            figcaption Nota. Elaboración propia en software Illustrator
+            figcaption.mt-2 Nota. Elaboración propia en software Illustrator
           .row.justify-content-center
             .col-lg-11
               p A continuación, se detalla el paso a paso para patronar estos dos tipos de pinzas con las respectivas derivaciones de cada una de ellas. 
@@ -591,7 +591,7 @@
                       img(src='@/assets/curso/tema3/img76.svg')
             .row(titulo="7").justify-content-center
               .col-lg-11                                             
-                p.mb-5 Marcar las líneas claves de costado, sisa, hombro, cintura y en la línea de <i>bretel</i> en el cruce de la línea princesa que coincidas las líneas de los dos paneles.
+                p.mb-5 Marcar las líneas claves de costado, sisa, hombro, cintura y en la línea de <i>bretel</i> en el cruce de la línea princesa que coincidan con las líneas de los dos paneles.
                 .row.justify-content-center                 
                   .col-lg-3.px-4
                     figure                      
@@ -655,7 +655,7 @@
                           figure                      
                             img(src='@/assets/curso/tema2/img11.svg')
                         .col-lg-11
-                          p.mb-0 Se debe estar seguro que la línea de centro del delantero del <i>gabarit</i> está en el centro. Los <i>gabarit</i> en su mayoría son elaborados manualmente y puede ser que la costura del centro del forro no coincida con el aplomo de mitad de cuerpo que se requiere; además el <i>gabarit</i> debe estar en posición totalmente vertical sin desnivel del piso donde se encuentre ya que esto también puede afectar el centro del mismo.      
+                          p.mb-0 Para el posterior se elabora solo la base de este ya que son pocos los diseños que trabajan en los dos lados.
                   .col-lg-4
                     figure                      
                       img(src='@/assets/curso/tema3/img84.svg')

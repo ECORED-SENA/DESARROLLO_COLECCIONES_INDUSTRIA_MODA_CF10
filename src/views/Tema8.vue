@@ -19,12 +19,12 @@
         .row.justify-content-center
           .col-lg-4
             div.BorTit.mb-2
-              p.mb-0 <b>Figura</b>: <i>Propuestas.</i>
+              p.mb-0 <b>Figura 17</b> <i>Propuestas.</i>
           figure.mb-5
             img(src='@/assets/curso/tema8/img01.png')
 
     #t_8_1.titulo-segundo
-      h2 8.1  Estudio de las proporciones y la figura humana. 
+      h2 8.1 Manejo del tejido/drapeados más usuales
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -183,7 +183,7 @@
                       br                    
                       figure
                         img(src='@/assets/curso/tema8/img09.png') 
-                        figcaption Nota. Tomado de https://menchuhiloyaguja.blogspot.com/2013/07/tutorial-de-pliegues-fuelles-faldas-de-camilla-cubrecanape.html Nota. Elaboración propia para la marcación 
+                        figcaption.mt-2 Nota. Tomado de https://menchuhiloyaguja.blogspot.com/2013/07/tutorial-de-pliegues-fuelles-faldas-de-camilla-cubrecanape.html Nota. Elaboración propia para la marcación 
                       br
                       br
                       br                      
@@ -217,7 +217,7 @@
                       br
                       br                    
                       br
-                    td Para esta técnica el tejido se corta en ángulo de 450, lo que ocasiona que el tejido al manipularse pueda generar una mejor caída, flexibilidad, y alguna elasticidad en su aplicación al <i>gabarit </i>. Esto también facilita que unir una pieza al bies y otra cortada al hilo se adhiera mejor una contra la otra logrando una mejor forma, si el caso es unir 2 tejidos que se encuentran en iguales condiciones estos no se pueden estirar ya que perderían su forma. De esta técnica de manejar el tejido se forman los cortes en espiral para formar ruches, faldas acampanadas, <i>peplum</i>, boleros y drapeados llamados estilo pañuelo.
+                    td Para esta técnica el tejido se corta en ángulo de 45º, lo que ocasiona que el tejido al manipularse pueda generar una mejor caída, flexibilidad, y alguna elasticidad en su aplicación al <i>gabarit </i>. Esto también facilita que unir una pieza al bies y otra cortada al hilo se adhiera mejor una contra la otra logrando una mejor forma, si el caso es unir 2 tejidos que se encuentran en iguales condiciones estos no se pueden estirar ya que perderían su forma. De esta técnica de manejar el tejido se forman los cortes en espiral para formar ruches, faldas acampanadas, <i>peplum</i>, boleros y drapeados llamados estilo pañuelo.
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .tabla-a.color-acento-botones
@@ -306,7 +306,7 @@
                     td 
     
     #t_8_2.titulo-segundo
-      h2 8.2  Manejo del tejido/drapeados más usuales
+      h2 8.2 Desarrollo de prototipos con volumen
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -319,7 +319,7 @@
         .row.justify-content-center.mb-5
           .col-lg-4
             div.BorTit2.mb-2
-              p.mb-0 <b>Figura</b>:
+              p.mb-0 <b>Figura 18</b>
               i Desarrollo de prototipos.
           figure
             img(src='@/assets/curso/tema8/img15.png')
@@ -327,7 +327,7 @@
         p A continuación, se explicará el paso a paso para construir el desarrollo de prototipos con volúmenes.
 
     TabsB.color-acento-botones.mb-5
-      .py-4.py-md-5(titulo="<i>bustier</i> base para drapeados" :icono="require('@/assets/curso/tema8/img16.svg')")
+      .py-4.py-md-5(titulo="bustier base para drapeados" :icono="require('@/assets/curso/tema8/img16.svg')")
         div.tema3-div1(:style="{'background-image': `url(${require('@/assets/curso/tema3/img12.svg')})`}").p-5
           LineaTiempoC.color-acento-botones(text-small)
             .row(titulo="1").justify-content-center
@@ -351,7 +351,7 @@
                 ul.lista-ul--color.ps-3.mb-5
                   li 
                     i.fas.fa-child
-                    | Unir sobre la línea de bretel y con la parte central del <i>bustier</i> el costadillo el cual seguirá la marcación hecha con los bolduc, limpiar muy bien el tejido y sujetar muy bien con pines.  
+                    p.mb-0 Unir sobre la línea de bretel y con la parte central del <i>bustier</i> el costadillo el cual seguirá la marcación hecha con los bolduc, limpiar muy bien el tejido y sujetar muy bien con pines.  
                   li 
                     i.fas.fa-child
                     | Cuidar la forma haciendo el corte en la cintura para evitar arrugas lo mismo que en el centro del busto ya que allí se pueden presentar y no ajustar buen el tejido. 
@@ -448,7 +448,7 @@
             .row(titulo="1").justify-content-center
               .col-lg-11                
                 p.mb-4 Para lograr realizar un cuello drapeado lo primero será ubicar 3 pines en uno en cada hombro y el tercero en la línea de centro frente a la altura del escote deseado. 
-                p.mb-5 Para este diseño el tejido se trabajará a 450 es decir, al sesgo o bies y con el tejido doble.
+                p.mb-5 Para este diseño el tejido se trabajará a 45º es decir, al sesgo o bies y con el tejido doble.
                 .row.justify-content-center
                   .col-lg-4
                     figure                      

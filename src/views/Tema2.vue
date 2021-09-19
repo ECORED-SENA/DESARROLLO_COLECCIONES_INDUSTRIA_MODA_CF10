@@ -21,12 +21,12 @@
         .row.justify-content-center
           .col-lg-10.tema2-div-slider.p-3
             div.BorTit.mb-2
-              p.mb-0 <b>Figura</b>: <i>Marcación líneas del cuerpo</i>
+              p.mb-0 <b>Figura 1</b> <i>Marcación líneas del cuerpo</i>
             .row.justify-content-center
               .col-lg-5
                 figure      
                   img(src='@/assets/curso/tema2/img02.png')
-                  figcaption Nota. Tomado de plantilla Pretatemplate.com
+                  figcaption.mt-2 Nota. Tomado de plantilla Pretatemplate.com
               .col-lg-6
                 p Estas medidas son llevadas también al cuerpo tanto en forma vertical en los largos, como horizontal en las circunferencias.
 
@@ -35,20 +35,20 @@
             .row.justify-content-center
               .col-lg-6
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Medida de Largo.</i>
+                  p.mb-0 <b>Figura 2</b> <i>Medida de Largo.</i>
                 figure      
                       img(src='@/assets/curso/tema2/img04.png')
-                      figcaption Nota. Elaboración propia en software Optitex           
+                      figcaption.mt-2 Nota. Elaboración propia en software Optitex           
 
         .row.justify-content-center
           .col-lg-10.tema2-div-slider.p-3
             div.BorTit.mb-2
-              p.mb-0 <b>Figura</b>: <i>Medida de contorno.</i> 
+              p.mb-0 <b>Figura 3</b> <i>Medida de contorno.</i> 
             .row.justify-content-center
               .col-lg-5
                 figure      
                   img(src='@/assets/curso/tema2/img05.png')
-                  figcaption Nota. Elaboración propia en software Optitex
+                  figcaption.mt-2 Nota. Elaboración propia en software Optitex
               .col-lg-5
                 p Al encintar el <i>gabarit</i> estamos dividiendo el cuerpo en cuadrantes semejante al trazo en el papel de un patrón base, estas líneas determinan los puntos más importantes a la hora de elaborarlo sin embargo, aquí se traslada al volumen y con <i>bolduc</i>s de color diferente a las líneas básicas desde las que se realizan los diseños, como señalar cortes.
         
@@ -64,7 +64,7 @@
             .col-lg-6
               figure      
                 div.BorTit2.mb-2
-                  p.mb-0 <b>Figura</b>: <i>Vitruvio.</i> 
+                  p.mb-0 <b>Figura 4</b> <i>Vitruvio.</i> 
                 img(src='@/assets/curso/tema2/img06.png')
 
     .row.justify-content-center
@@ -97,22 +97,22 @@
             | Los pines deben ir cada 5 cm uno delante del otro.
           li 
             i.fas.fa-child
-            | Al colocar el primer pin con el <i>bolduc</i> verificar que este se sostenga girando un poco el pin al introducirlo al maniquí.
+            p.mb-0 Al colocar el primer pin con el <i>bolduc</i> verificar que este se sostenga girando un poco el pin al introducirlo al maniquí.
           li 
             i.fas.fa-child
-            | Todas las intersecciones donde pasan los <i>bolduc</i> se unen con alfileres.
+            p.mb-0 Todas las intersecciones donde pasan los <i>bolduc</i> se unen con alfileres.
           li 
             i.fas.fa-child
-            | Si el <i>bolduc</i> queda levantado por la forma del <i>gabarit</i> se debe pinar.
+            p.mb-0 Si el <i>bolduc</i> queda levantado por la forma del <i>gabarit</i> se debe pinar.
           li 
             i.fas.fa-child
-            | Los pines deben ir ordenados y simétricos a través de los <i>bolduc</i>.
+            p.mb-0 Los pines deben ir ordenados y simétricos a través de los <i>bolduc</i>.
           li 
             i.fas.fa-child
-            | Los empalmes de <i>bolduc</i> deben ir en el mismo costado y dobladas las puntas de estos, sobrepuesta una sobre otra simétricamente.
+            p.mb-0 Los empalmes de <i>bolduc</i> deben ir en el mismo costado y dobladas las puntas de estos, sobrepuesta una sobre otra simétricamente.
           li 
             i.fas.fa-child
-            | Los pines no pueden afectar la estructura del <i>gabarit</i>.
+            p.mb-0 Los pines no pueden afectar la estructura del <i>gabarit</i>.
           li 
             i.fas.fa-child
             | El pin debe de estar introducido en su totalidad siguiendo esta la técnica adecuada.
@@ -140,7 +140,7 @@
               figure                      
                 img(src='@/assets/curso/tema2/img09.svg')
 
-        div(titulo="Líneas verticales").px-4
+        div(titulo="El paso a paso").px-4
             .row.justify-content-center.mb-5
               .col-lg-4
                 p.mb-4 Teniendo claras las líneas iniciamos la explicación del proceso paso a paso.
@@ -215,8 +215,8 @@
                 figure                      
                     img(src='@/assets/curso/tema2/img19.svg')
 
-        div(titulo="Cadera" ).px-4
-          p.mb-4 <b>Cadera</b>: a 20 cm del <i>bolduc</i> de la cintura al igual que esta cuidar de que quede simétrica.
+        div(titulo="Altura de Cadera" ).px-4
+          p.mb-4 <b>Altura de Cadera</b>: a 10 cm de la cintura sin embargo si el <i>gabarit</i> tiene más medida que la dada esta se ubicará la mitad entre la línea de cintura y de la cadera.
           .row.justify-content-center
             .col-lg-2
                 figure                      
@@ -242,7 +242,7 @@
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img23.svg')
-        div(titulo="Sisa" ).px-4
+        div(titulo="Nota sisa" ).px-4
           .cajon.color-acento-contenido.p-4.mb-4
               .row
                 .col-lg-1
@@ -262,7 +262,7 @@
             .col-lg-2
                 figure.mb-4                     
                     img(src='@/assets/curso/tema2/img25.svg')
-        div(titulo="Cuello" ).px-4
+        div(titulo="Nota sisa y cuello" ).px-4
           .cajon.color-acento-contenido.p-4.mb-4
               .row
                 .col-lg-1

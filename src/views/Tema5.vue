@@ -21,22 +21,22 @@
       .col-lg-6.d-flex       
           .cajon.color-acento-contenido.p-4.mb-4
             div.BorTit.mb-2
-              p.mb-0 <b>Figura</b>: <i>Industrialización de patrones.</i>
+              p.mb-0 <b>Figura 8</b> <i>Industrialización de patrones.</i>
             .row.justify-content-center    
               .col-lg-7
                 figure                      
                   img(src='@/assets/curso/tema5/img02.png')
-                  figcaption Nota. Tomado de Trazo, corte y confección de la falda clásica (SENA, 2014).
+                  figcaption.mt-2 Nota. Tomado de Trazo, corte y confección de la falda clásica (SENA, 2014).
       .col-lg-6.d-flex      
         .cajon.color-secundario.p-4.mb-4
           p.mb-5 Toda la información que facilite la ágil interpretación y codificación del patrón se debe incluir, ya que ningún detalle se puede pasar por alto, debido a que la finalidad es que toda persona que tome el <i>toile</i> lo pueda interpretar desde su desarrollo hasta llevar al corte y confección de este.
           div.BorTit.mb-2
-            p.mb-0 <b>Figura</b>: <i>Industrialización de patrones.</i>
+            p.mb-0 <b>Figura 9</b> <i>Industrialización de patrones.</i>
           .row.justify-content-center    
             .col-lg-6
               figure                      
                 img(src='@/assets/curso/tema5/img03.png')
-                figcaption Nota. Tomado de: https://docplayer.es/49324446-Guia-del-participante.html
+                figcaption.mt-2 Nota. Tomado de: https://docplayer.es/49324446-Guia-del-participante.html
           
           
 

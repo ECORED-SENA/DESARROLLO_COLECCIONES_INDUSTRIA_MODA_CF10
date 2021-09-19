@@ -41,7 +41,7 @@ export default {
         imagen: require('@/assets/curso/tema1/img03.png'),
       },
       {
-        titulo: 'Gasilla',
+        titulo: 'Glasilla',
         texto:
           'El segundo elemento es la tela llamada “Glasilla”, comercialmente llamada etamina, liencillo o dacrón, siendo la mejor para este el liencillo 100% algodón crudo y aprestado, al cual se le da un tratamiento especial ya que debe ir cortada al hilo sin estiramiento en los orillos.',
         imagen: require('@/assets/curso/tema1/img04.png'),
