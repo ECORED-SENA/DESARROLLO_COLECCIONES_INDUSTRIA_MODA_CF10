@@ -21,7 +21,8 @@
         .row.justify-content-center
           .col-lg-10.tema2-div-slider.p-3
             div.BorTit.mb-2
-              p.mb-0 <b>Figura 1</b> <i>Marcación líneas del cuerpo</i>
+              h4.mb-0 Figura 1
+              p.mb-0 Marcación líneas del cuerpo.
             .row.justify-content-center
               .col-lg-5
                 figure      
@@ -35,7 +36,8 @@
             .row.justify-content-center
               .col-lg-6
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura 2</b> <i>Medida de Largo.</i>
+                  h4.mb-0 Figura 2 
+                  p.mb-0 Medida de Largo.
                 figure      
                       img(src='@/assets/curso/tema2/img04.png')
                       figcaption.mt-2 Nota. Elaboración propia en software Optitex           
@@ -43,7 +45,8 @@
         .row.justify-content-center
           .col-lg-10.tema2-div-slider.p-3
             div.BorTit.mb-2
-              p.mb-0 <b>Figura 3</b> <i>Medida de contorno.</i> 
+              h4.mb-0 Figura 3
+              p.mb-0 Medida de contorno.
             .row.justify-content-center
               .col-lg-5
                 figure      
@@ -64,7 +67,8 @@
             .col-lg-6
               figure      
                 div.BorTit2.mb-2
-                  p.mb-0 <b>Figura 4</b> <i>Vitruvio.</i> 
+                  h4.mb-0 Figura 4 
+                  p.mb-0  Vitruvio.
                 img(src='@/assets/curso/tema2/img06.png')
 
     .row.justify-content-center
@@ -228,6 +232,13 @@
             .col-lg-2
                 figure                      
                     img(src='@/assets/curso/tema2/img21.svg')
+
+        div(titulo="Tórax máximo" ).px-4
+          p.mb-4 <b>Tórax máximo</b>: en los dos pivot (punto más prominente del busto) se creará un puente a 0,7 cm del pívot hacia el costado y del puente- costado a la línea de pecho hacia arriba 0,5 cm.
+          .row.justify-content-center
+            .col-lg-2
+                figure                      
+                    img(src='@/assets/curso/tema2/img27.svg')
 
         div(titulo="Línea submamario" ).px-4
           p.mb-4 <b>Línea submamario</b>: a 9.0 cm del <i>pívot</i> hacia la cintura

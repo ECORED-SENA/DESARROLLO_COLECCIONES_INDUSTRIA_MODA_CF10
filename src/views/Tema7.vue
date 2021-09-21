@@ -11,7 +11,8 @@
     .row.justify-content-center
       .col-lg-2           
         div.BorTit.mb-2
-          p.mb-0 <b>Figura 16</b> <i>Tejido.</i>
+          h4.mb-0 Figura 16 
+          p.mb-0 Tejido.
     figure.mb-5
       img(src='@/assets/curso/tema7/img01.png')
 
@@ -163,7 +164,7 @@
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img11.png')  
-                        figcaption.mt-2  Nota. Tomado de https://www.shutterstock.com/es/image-photo/elegant-background-image-luxurious-white-satin-103118426
+                        figcaption.mt-2  Nota. Tomado de shutterstock.com
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .tabla-a.color-acento-botones
@@ -180,7 +181,7 @@
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img12.png')   
-                        figcaption.mt-2  Nota. Tomado de https://www.shutterstock.com/es/image-photo/pink-blue-fabric-136422809 
+                        figcaption.mt-2  Nota. Tomado de shutterstock.com
         .row.justify-content-center
           .col-lg-10.tema6-div-slider.p-3
             .tabla-a.color-acento-botones
@@ -197,7 +198,7 @@
                     td 
                       figure
                         img(src='@/assets/curso/tema7/img13.png')    
-                        figcaption.mt-2 Nota. Tomado de https://www.shutterstock.com/es/image-photo/iridescent-fabric-folds-background-image-1599148924
+                        figcaption.mt-2 Nota. Tomado de shutterstock.com
                 
 
 </template>

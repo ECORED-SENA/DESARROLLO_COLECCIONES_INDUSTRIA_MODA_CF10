@@ -30,13 +30,15 @@
           p.mb-5 Para la realización de los básicos, lo primero es la preparación de la glasilla en cada uno de los modelos, para esto se tomará la medida de ancho y de largo dando la forma de un rectángulo, se plancha con vapor la tela para no tener arrugas que generen otro tipo de proceso y se hace horizontal y verticalmente, no en diagonal ya que el tejido con el calor y el vapor pueden estirarse.         
           figure      
                 div.BorTit.mb-2
-                  p.mb-0 <b>Figura 5</b> <i>Toile</i>.
+                  h4.mb-0 Figura 5 
+                  p.mb-0 Toile.
                 img(src='@/assets/curso/tema3/img02.png')
       .col-lg-6.d-flex
         .cajon.color-secundario.p-4.mb-4
           p.mb-5 En la siguiente figura se muestra la forma en que se debe planchar la glasilla en el proceso de preparación este insumo para el trabajo con los básicos.
           div.BorTit.mb-2
-            p.mb-0 <b>Figura 6</b> <i>Preparación Glasilla.</i>
+            h4.mb-0 Figura 6 
+            p.mb-0 Preparación Glasilla.
           .row.justify-content-center
               .col-lg-8.d-flex
                 figure                      
@@ -531,7 +533,8 @@
           .row.justify-content-center
             .col-lg-3
               div.BorTit.mb-2
-                p.mb-0 <b>Figura 7</b> <i>Tipos de Pinza.</i>
+                h4.mb-0 Figura 7 
+                p.mb-0 Tipos de Pinza.
           figure.mb-5                     
             img(src='@/assets/curso/tema3/img69.svg')
             figcaption.mt-2 Nota. Elaboración propia en software Illustrator

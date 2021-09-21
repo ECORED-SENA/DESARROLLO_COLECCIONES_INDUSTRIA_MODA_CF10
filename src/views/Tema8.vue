@@ -19,7 +19,8 @@
         .row.justify-content-center
           .col-lg-4
             div.BorTit.mb-2
-              p.mb-0 <b>Figura 17</b> <i>Propuestas.</i>
+              h4.mb-0 Figura 17 
+              p.mb-0 Propuestas.
           figure.mb-5
             img(src='@/assets/curso/tema8/img01.png')
 
@@ -183,7 +184,7 @@
                       br                    
                       figure
                         img(src='@/assets/curso/tema8/img09.png') 
-                        figcaption.mt-2 Nota. Tomado de https://menchuhiloyaguja.blogspot.com/2013/07/tutorial-de-pliegues-fuelles-faldas-de-camilla-cubrecanape.html Nota. Elaboración propia para la marcación 
+                        figcaption.mt-2 Nota. Tomado de menchuhiloyaguja.com
                       br
                       br
                       br                      
@@ -319,8 +320,8 @@
         .row.justify-content-center.mb-5
           .col-lg-4
             div.BorTit2.mb-2
-              p.mb-0 <b>Figura 18</b>
-              i Desarrollo de prototipos.
+              h4.mb-0 Figura 18
+              p.mb-0 Desarrollo de prototipos.
           figure
             img(src='@/assets/curso/tema8/img15.png')
         
