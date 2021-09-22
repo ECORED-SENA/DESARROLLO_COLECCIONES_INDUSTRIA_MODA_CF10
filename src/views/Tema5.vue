@@ -38,7 +38,7 @@
             .col-lg-6
               figure                      
                 img(src='@/assets/curso/tema5/img03.png')
-                figcaption.mt-2 Nota. Tomado de: https://docplayer.es/49324446-Guia-del-participante.html
+                figcaption.mt-2 Nota. Tomado de docplayer.es
           
           
 
