@@ -507,7 +507,8 @@ export default {
       {
         nombre: 'Anllelo Andrés Reina Montañez',
         cargo: 'Diseño web',
-        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Adriana Marcela Suárez Eljure',
